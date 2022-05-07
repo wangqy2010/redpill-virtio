@@ -1,6 +1,6 @@
 {
   "id": "thethorgroup.virtio",
-  "url": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/wangqy2010/redpill-virtio/master/rpext-index.json",
   "info": {
     "name": "VirtIO",
     "description": "Adds VirtIO support for fast network/PCI/SCSI/network/console paravirtualization under QEmu (Proxmox, VirtualBox, virsh, and similar)",
@@ -13,6 +13,8 @@
     "ds3615xs_41222": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/recipes/ds3615xs_41222.json",
     "ds918p_25556": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/recipes/ds918p_25556.json",
     "ds918p_41890": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/recipes/ds918p_41890.json",
+    "ds920p_42621": "https://raw.githubusercontent.com/wangqy2010/redpill-virtio/master/recipes/ds920p_42661.json",
+    "ds920p_42218": "https://raw.githubusercontent.com/wangqy2010/redpill-virtio/master/recipes/ds920p_42661.json",
     "ds920p_42661": "https://raw.githubusercontent.com/wangqy2010/redpill-virtio/master/recipes/ds920p_42661.json"
   }
 }
